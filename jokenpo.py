@@ -55,24 +55,3 @@ if sorteio == 2:
         print("\033MÁQUINA VENCEU!\033[m")
     elif escolha_usuario == 1:
         print("\033[1;33mMÁQUINA VENCEU!\033[m")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
